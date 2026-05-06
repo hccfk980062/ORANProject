@@ -1,0 +1,48 @@
+version: "3.9"
+
+networks:
+  e2_net:
+    driver: bridge
+
+services:
+  ric:
+    build: ./Near-RT_RIC
+    container_name: near_rt_ric
+    networks:
+      - e2_net
+    ports:
+      - "36421:36421"  # E2AP 標準 port (SCTP，這裡用 TCP 模擬)
+
+  interceptor:
+    build: ./FSM_Interceptor
+    container_name: FSM_Interceptor
+    networks:
+      - e2_net
+    ports:
+      - "36422:36422"
+    depends_on:
+      - ric
+    volumes:
+      - ./logs:/app/logs
+
+  xapp_normal:
+    build: ./XApp
+    container_name: XApp_Normal
+    networks:
+      - e2_net
+    environment:
+      - MODE=Normal
+    depends_on:
+      - interceptor
+
+  xapp_malicious:
+    build: ./XApp
+    container_name: XApp_Malicious
+    networks:
+      - e2_net
+    environment:
+      - MODE=Malicious
+    depends_on:
+      - interceptor
+    profiles:
+      - attack  # 需手動啟動：docker compose --profile attack up
