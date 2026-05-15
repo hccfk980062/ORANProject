@@ -1,82 +1,160 @@
-{"ts": 1778039380.7809002, "session": "172.18.0.4:42752", "type": "E2SetupRequest", "allowed": true, "latency_ms": 1.352548599243164}
-{"ts": 1778039380.7859213, "session": "172.18.0.4:42752", "type": "RICsubscriptionRequest", "allowed": false, "latency_ms": 0.16236305236816406}
-{"ts": 1778039406.0226264, "session": "172.18.0.4:47850", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.4832744598388672}
-{"ts": 1778039406.026874, "session": "172.18.0.4:47850", "type": "RICsubscriptionRequest", "allowed": false, "latency_ms": 0.13208389282226562}
-{"ts": 1778039416.3773582, "session": "172.18.0.4:43000", "type": "RICindication", "allowed": false, "latency_ms": 0.3116130828857422}
-{"ts": 1778039542.5486712, "session": "172.18.0.4:56120", "type": "RICindication", "allowed": false, "latency_ms": 1.199960708618164}
-{"ts": 1778039557.1677372, "session": "172.18.0.4:59970", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.5037784576416016}
-{"ts": 1778039557.17016, "session": "172.18.0.4:59970", "type": "RICsubscriptionRequest", "allowed": false, "latency_ms": 0.1087188720703125}
-{"ts": 1778039770.5895844, "session": "172.18.0.4:48946", "type": "E2SetupRequest", "allowed": true, "latency_ms": 1.3680458068847656}
-{"ts": 1778039770.5943387, "session": "172.18.0.4:48946", "type": "RICsubscriptionRequest", "allowed": false, "latency_ms": 0.133514404296875}
-{"ts": 1778039931.2800052, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.9043216705322266}
-{"ts": 1778039931.3035464, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1728534698486328}
-{"ts": 1778039931.3262024, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.18095970153808594}
-{"ts": 1778039931.3487206, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.22125244140625}
-{"ts": 1778039931.371014, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16736984252929688}
-{"ts": 1778039931.3951693, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.18858909606933594}
-{"ts": 1778039931.4176095, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16951560974121094}
-{"ts": 1778039931.4396095, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16450881958007812}
-{"ts": 1778039931.4619803, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.15854835510253906}
-{"ts": 1778039931.4846954, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.20265579223632812}
-{"ts": 1778039931.5088398, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1392364501953125}
-{"ts": 1778039931.532636, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.20813941955566406}
-{"ts": 1778039931.5555975, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16951560974121094}
-{"ts": 1778039931.5851128, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16641616821289062}
-{"ts": 1778039931.6150908, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.20074844360351562}
-{"ts": 1778039931.6373165, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16260147094726562}
-{"ts": 1778039931.6613917, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.30040740966796875}
-{"ts": 1778039931.6859486, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.18548965454101562}
-{"ts": 1778039931.7103195, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1347064971923828}
-{"ts": 1778039931.732817, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16617774963378906}
-{"ts": 1778039931.755375, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13637542724609375}
-{"ts": 1778039931.7772222, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.15211105346679688}
-{"ts": 1778039931.8002503, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1494884490966797}
-{"ts": 1778039931.8234894, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1366138458251953}
-{"ts": 1778039931.8461108, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.12946128845214844}
-{"ts": 1778039931.8685362, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.14400482177734375}
-{"ts": 1778039931.8906488, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.14853477478027344}
-{"ts": 1778039931.9128351, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1666545867919922}
-{"ts": 1778039931.9350536, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.15878677368164062}
-{"ts": 1778039931.9567642, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1354217529296875}
-{"ts": 1778039931.9784029, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.12087821960449219}
-{"ts": 1778039932.0001633, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1533031463623047}
-{"ts": 1778039932.023122, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1277923583984375}
-{"ts": 1778039932.0458872, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.12755393981933594}
-{"ts": 1778039932.0680032, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13303756713867188}
-{"ts": 1778039932.0905116, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.14090538024902344}
-{"ts": 1778039932.112655, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13971328735351562}
-{"ts": 1778039932.134906, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13375282287597656}
-{"ts": 1778039932.157288, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.12087821960449219}
-{"ts": 1778039932.1796496, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.15473365783691406}
-{"ts": 1778039932.2028174, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1399517059326172}
-{"ts": 1778039932.2255309, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.12159347534179688}
-{"ts": 1778039932.248921, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13756752014160156}
-{"ts": 1778039932.2710946, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.13399124145507812}
-{"ts": 1778039932.2933779, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.15854835510253906}
-{"ts": 1778039932.315815, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.1461505889892578}
-{"ts": 1778039932.3440304, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.156402587890625}
-{"ts": 1778039932.3666098, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.16069412231445312}
-{"ts": 1778039932.388996, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.14090538024902344}
-{"ts": 1778039932.4111145, "session": "172.18.0.4:48126", "type": "RICindication", "allowed": false, "latency_ms": 0.2162456512451172}
-{"ts": 1778039932.4338715, "session": "172.18.0.4:48140", "type": "DELETE /ric", "allowed": false, "latency_ms": 0.23365020751953125}
-{"ts": 1778039932.435636, "session": "172.18.0.4:48140", "type": "HACKED", "allowed": false, "latency_ms": 0.07486343383789062}
-{"ts": 1778039932.4371846, "session": "172.18.0.4:48140", "type": "", "allowed": false, "latency_ms": 0.06890296936035156}
-{"ts": 1778039932.4445984, "session": "172.18.0.4:48140", "type": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "allowed": false, "latency_ms": 0.13113021850585938}
-{"ts": 1778039932.4511502, "session": "172.18.0.4:48140", "type": "RICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequestRICcontrolRequest", "allowed": false, "latency_ms": 0.09202957153320312}
-{"ts": 1778039932.4591484, "session": "172.18.0.4:48140", "type": null, "allowed": false, "latency_ms": 0.11420249938964844}
-{"ts": 1778040205.0615606, "session": "172.18.0.4:60332", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.9539127349853516}
-{"ts": 1778040205.0658066, "session": "172.18.0.4:60332", "type": "RICsubscriptionRequest", "allowed": false, "latency_ms": 0.110626220703125}
-{"ts": 1778041386.0672383, "session": "172.18.0.4:55512", "type": "E2SetupRequest", "allowed": true, "latency_ms": 1.2900829315185547}
-{"ts": 1778041386.07194, "session": "172.18.0.4:55512", "type": "RICsubscriptionRequest", "allowed": true, "latency_ms": 0.21386146545410156}
-{"ts": 1778041386.0760448, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.2243518829345703}
-{"ts": 1778041386.5811868, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.25534629821777344}
-{"ts": 1778041387.085899, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.19788742065429688}
-{"ts": 1778041387.5911233, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.19860267639160156}
-{"ts": 1778041388.0968275, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.2262592315673828}
-{"ts": 1778041388.6000707, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.19502639770507812}
-{"ts": 1778041389.105205, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.19931793212890625}
-{"ts": 1778041389.6124907, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.17452239990234375}
-{"ts": 1778041390.1188073, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.19502639770507812}
-{"ts": 1778041390.626771, "session": "172.18.0.4:55512", "type": "RICindication", "allowed": true, "latency_ms": 0.1819133758544922}
-{"ts": 1778041391.1356537, "session": "172.18.0.4:55512", "type": "RICcontrolRequest", "allowed": true, "latency_ms": 0.1926422119140625}
-{"ts": 1778041391.138332, "session": "172.18.0.4:55512", "type": "ResetRequest", "allowed": true, "latency_ms": 0.1461505889892578}
+{"ts": 1778821477.8170443, "session": "172.18.0.4:57086", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.32329559326171875, "reason": ""}
+{"ts": 1778821477.8273034, "session": "172.18.0.4:57086", "type": "RICsubscriptionRequest", "allowed": true, "latency_ms": 0.21839141845703125, "reason": ""}
+{"ts": 1778821477.8441083, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.21028518676757812, "reason": ""}
+{"ts": 1778821478.351675, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.19359588623046875, "reason": ""}
+{"ts": 1778821478.858361, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.209808349609375, "reason": ""}
+{"ts": 1778821479.3628764, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.20122528076171875, "reason": ""}
+{"ts": 1778821479.8666358, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.24390220642089844, "reason": ""}
+{"ts": 1778821480.3718235, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.19812583923339844, "reason": ""}
+{"ts": 1778821483.0678482, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.20456314086914062, "reason": ""}
+{"ts": 1778821481.3602889, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.19812583923339844, "reason": ""}
+{"ts": 1778821481.8645384, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.286102294921875, "reason": ""}
+{"ts": 1778821482.3693175, "session": "172.18.0.4:57086", "type": "RICindication", "allowed": true, "latency_ms": 0.19288063049316406, "reason": ""}
+{"ts": 1778821482.876817, "session": "172.18.0.4:57086", "type": "RICcontrolRequest", "allowed": true, "latency_ms": 0.1704692840576172, "reason": ""}
+{"ts": 1778821482.8807561, "session": "172.18.0.4:57086", "type": "ResetRequest", "allowed": true, "latency_ms": 0.3829002380371094, "reason": ""}
+{"ts": 1778821564.018142, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.3495216369628906, "reason": "fsm_violation"}
+{"ts": 1778821564.0426478, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1990795135498047, "reason": "fsm_violation"}
+{"ts": 1778821564.0665405, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.18167495727539062, "reason": "fsm_violation"}
+{"ts": 1778821564.0856261, "session": "172.18.0.5:33326", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.49567222595214844, "reason": ""}
+{"ts": 1778821564.0884676, "session": "172.18.0.5:33326", "type": "RICsubscriptionRequest", "allowed": true, "latency_ms": 0.2300739288330078, "reason": ""}
+{"ts": 1778821564.0899658, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1938343048095703, "reason": "fsm_violation"}
+{"ts": 1778821564.0920057, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.23818016052246094, "reason": ""}
+{"ts": 1778821564.1148531, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.3108978271484375, "reason": "fsm_violation"}
+{"ts": 1778821564.1402326, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.16736984252929688, "reason": "fsm_violation"}
+{"ts": 1778821564.164982, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.3161430358886719, "reason": "fsm_violation"}
+{"ts": 1778821564.1895144, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.19979476928710938, "reason": "fsm_violation"}
+{"ts": 1778821564.2138624, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1990795135498047, "reason": "fsm_violation"}
+{"ts": 1778821564.2385516, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1819133758544922, "reason": "fsm_violation"}
+{"ts": 1778821564.2633824, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.20241737365722656, "reason": "fsm_violation"}
+{"ts": 1778821564.2880404, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.2951622009277344, "reason": "fsm_violation"}
+{"ts": 1778821564.3175004, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.19216537475585938, "reason": "fsm_violation"}
+{"ts": 1778821564.3423302, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.18644332885742188, "reason": "fsm_violation"}
+{"ts": 1778821564.3694727, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.24008750915527344, "reason": "fsm_violation"}
+{"ts": 1778821564.3939629, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1735687255859375, "reason": "fsm_violation"}
+{"ts": 1778821564.4187882, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.1850128173828125, "reason": "fsm_violation"}
+{"ts": 1778821564.4434898, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.18906593322753906, "reason": "fsm_violation"}
+{"ts": 1778821564.467954, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.16999244689941406, "reason": "fsm_violation"}
+{"ts": 1778821564.4930503, "session": "172.18.0.4:55478", "type": "RICindication", "allowed": false, "latency_ms": 0.18715858459472656, "reason": "fsm_violation"}
+{"ts": 1778821564.517979, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1270771026611328, "reason": "rate_limit"}
+{"ts": 1778821564.54341, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12636184692382812, "reason": "rate_limit"}
+{"ts": 1778821564.5685678, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12373924255371094, "reason": "rate_limit"}
+{"ts": 1778821564.5942624, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13303756713867188, "reason": "rate_limit"}
+{"ts": 1778821564.596043, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.47469139099121094, "reason": ""}
+{"ts": 1778821564.6194942, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13303756713867188, "reason": "rate_limit"}
+{"ts": 1778821564.6439257, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13256072998046875, "reason": "rate_limit"}
+{"ts": 1778821564.6683187, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12731552124023438, "reason": "rate_limit"}
+{"ts": 1778821564.6938279, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12254714965820312, "reason": "rate_limit"}
+{"ts": 1778821564.7183619, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12302398681640625, "reason": "rate_limit"}
+{"ts": 1778821564.7423859, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.11897087097167969, "reason": "rate_limit"}
+{"ts": 1778821564.766849, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13589859008789062, "reason": "rate_limit"}
+{"ts": 1778821564.7961133, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1361370086669922, "reason": "rate_limit"}
+{"ts": 1778821564.823714, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1285076141357422, "reason": "rate_limit"}
+{"ts": 1778821564.848484, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1304149627685547, "reason": "rate_limit"}
+{"ts": 1778821564.8738267, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12826919555664062, "reason": "rate_limit"}
+{"ts": 1778821564.8978133, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1442432403564453, "reason": "rate_limit"}
+{"ts": 1778821564.9226394, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12421607971191406, "reason": "rate_limit"}
+{"ts": 1778821564.9482043, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1399517059326172, "reason": "rate_limit"}
+{"ts": 1778821564.9733772, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12731552124023438, "reason": "rate_limit"}
+{"ts": 1778821564.9974957, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.11181831359863281, "reason": "rate_limit"}
+{"ts": 1778821565.0225477, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12993812561035156, "reason": "rate_limit"}
+{"ts": 1778821565.0469506, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1556873321533203, "reason": "rate_limit"}
+{"ts": 1778821565.070504, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.12469291687011719, "reason": "rate_limit"}
+{"ts": 1778821565.095129, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1399517059326172, "reason": "rate_limit"}
+{"ts": 1778821565.1003993, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.3058910369873047, "reason": ""}
+{"ts": 1778821565.120362, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.1399517059326172, "reason": "rate_limit"}
+{"ts": 1778821565.1452963, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.17333030700683594, "reason": "rate_limit"}
+{"ts": 1778821565.170756, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13780593872070312, "reason": "rate_limit"}
+{"ts": 1778821565.19577, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13303756713867188, "reason": "rate_limit"}
+{"ts": 1778821565.2214954, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.13136863708496094, "reason": "rate_limit"}
+{"ts": 1778821565.2456546, "session": "172.18.0.4:55478", "type": "Unknown", "allowed": false, "latency_ms": 0.11801719665527344, "reason": "rate_limit"}
+{"ts": 1778821565.6043234, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.2002716064453125, "reason": ""}
+{"ts": 1778821566.1093383, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.2090930938720703, "reason": ""}
+{"ts": 1778821566.6177752, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.2129077911376953, "reason": ""}
+{"ts": 1778821567.144271, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.2002716064453125, "reason": ""}
+{"ts": 1778821567.4523635, "session": "172.18.0.4:55486", "type": "MalformedPacket", "allowed": false, "latency_ms": 0.07343292236328125, "reason": "malformed"}
+{"ts": 1778821567.6656353, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.213623046875, "reason": ""}
+{"ts": 1778821567.6724584, "session": "172.18.0.4:55496", "type": "MalformedPacket", "allowed": false, "latency_ms": 0.13756752014160156, "reason": "malformed"}
+{"ts": 1778821567.8913898, "session": "172.18.0.4:55502", "type": "Unknown", "allowed": false, "latency_ms": 0.30803680419921875, "reason": "fsm_violation"}
+{"ts": 1778821568.1110535, "session": "172.18.0.4:55510", "type": "FAKE_CONTROL_OVERRIDE", "allowed": false, "latency_ms": 0.22792816162109375, "reason": "fsm_violation"}
+{"ts": 1778821568.175451, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.2231597900390625, "reason": ""}
+{"ts": 1778821568.33283, "session": "172.18.0.4:55512", "type": "MalformedPacket", "allowed": false, "latency_ms": 0.07176399230957031, "reason": "malformed"}
+{"ts": 1778821568.554095, "session": "172.18.0.4:55520", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.3662109375, "reason": ""}
+{"ts": 1778821568.5569434, "session": "172.18.0.4:55520", "type": "E2SetupRequest", "allowed": false, "latency_ms": 0.10585784912109375, "reason": "fsm_violation"}
+{"ts": 1778821568.7036827, "session": "172.18.0.5:33326", "type": "RICindication", "allowed": true, "latency_ms": 0.1995563507080078, "reason": ""}
+{"ts": 1778821568.7660558, "session": "172.18.0.4:55526", "type": "RICindication", "allowed": false, "latency_ms": 0.30159950256347656, "reason": "fsm_violation"}
+{"ts": 1778821568.920988, "session": "172.18.0.4:55542", "type": "Unknown", "allowed": false, "latency_ms": 0.2799034118652344, "reason": "fsm_violation"}
+{"ts": 1778821566.927109, "session": "172.18.0.5:33326", "type": "RICcontrolRequest", "allowed": true, "latency_ms": 0.1952648162841797, "reason": ""}
+{"ts": 1778821566.931599, "session": "172.18.0.5:33326", "type": "ResetRequest", "allowed": true, "latency_ms": 0.19121170043945312, "reason": ""}
+{"ts": 1778823005.2280397, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.3333091735839844, "reason": "fsm_violation"}
+{"ts": 1778823005.251976, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.21386146545410156, "reason": "fsm_violation"}
+{"ts": 1778823005.2771769, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.19860267639160156, "reason": "fsm_violation"}
+{"ts": 1778823005.3038473, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.19788742065429688, "reason": "fsm_violation"}
+{"ts": 1778823005.3289042, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.270843505859375, "reason": "fsm_violation"}
+{"ts": 1778823005.354619, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2090930938720703, "reason": "fsm_violation"}
+{"ts": 1778823005.381138, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.21338462829589844, "reason": "fsm_violation"}
+{"ts": 1778823005.405659, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2117156982421875, "reason": "fsm_violation"}
+{"ts": 1778823005.4289799, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.21839141845703125, "reason": "fsm_violation"}
+{"ts": 1778823005.4537086, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.21219253540039062, "reason": "fsm_violation"}
+{"ts": 1778823005.4790614, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2562999725341797, "reason": "fsm_violation"}
+{"ts": 1778823005.5055192, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.21767616271972656, "reason": "fsm_violation"}
+{"ts": 1778823005.5304801, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.23174285888671875, "reason": "fsm_violation"}
+{"ts": 1778823005.5545735, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2944469451904297, "reason": "fsm_violation"}
+{"ts": 1778823005.5787776, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.20384788513183594, "reason": "fsm_violation"}
+{"ts": 1778823005.6038334, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.20599365234375, "reason": "fsm_violation"}
+{"ts": 1778823005.629472, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2014636993408203, "reason": "fsm_violation"}
+{"ts": 1778823005.6546392, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2582073211669922, "reason": "fsm_violation"}
+{"ts": 1778823005.6846006, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.2048015594482422, "reason": "fsm_violation"}
+{"ts": 1778823005.7097816, "session": "172.18.0.4:46848", "type": "RICindication", "allowed": false, "latency_ms": 0.19741058349609375, "reason": "fsm_violation"}
+{"ts": 1778823005.7360907, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1480579376220703, "reason": "rate_limit"}
+{"ts": 1778823005.7606156, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1392364501953125, "reason": "rate_limit"}
+{"ts": 1778823005.785088, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1456737518310547, "reason": "rate_limit"}
+{"ts": 1778823005.8095381, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.13947486877441406, "reason": "rate_limit"}
+{"ts": 1778823005.8336468, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.15878677368164062, "reason": "rate_limit"}
+{"ts": 1778823005.858446, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.15020370483398438, "reason": "rate_limit"}
+{"ts": 1778823005.8827734, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1506805419921875, "reason": "rate_limit"}
+{"ts": 1778823005.9127483, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.16498565673828125, "reason": "rate_limit"}
+{"ts": 1778823005.936459, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.17309188842773438, "reason": "rate_limit"}
+{"ts": 1778823005.9595861, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.11801719665527344, "reason": "rate_limit"}
+{"ts": 1778823005.9826105, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.12993812561035156, "reason": "rate_limit"}
+{"ts": 1778823006.0059202, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.14638900756835938, "reason": "rate_limit"}
+{"ts": 1778823006.0301168, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.13756752014160156, "reason": "rate_limit"}
+{"ts": 1778823006.0553799, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1361370086669922, "reason": "rate_limit"}
+{"ts": 1778823006.0795352, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1518726348876953, "reason": "rate_limit"}
+{"ts": 1778823006.1039548, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1366138458251953, "reason": "rate_limit"}
+{"ts": 1778823006.1292827, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1289844512939453, "reason": "rate_limit"}
+{"ts": 1778823006.1558843, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.13685226440429688, "reason": "rate_limit"}
+{"ts": 1778823006.1814182, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1499652862548828, "reason": "rate_limit"}
+{"ts": 1778823006.2067, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1976490020751953, "reason": "rate_limit"}
+{"ts": 1778823006.232959, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.13828277587890625, "reason": "rate_limit"}
+{"ts": 1778823006.257823, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1544952392578125, "reason": "rate_limit"}
+{"ts": 1778823006.2824376, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.12993812561035156, "reason": "rate_limit"}
+{"ts": 1778823006.3068547, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1552104949951172, "reason": "rate_limit"}
+{"ts": 1778823006.3315556, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1590251922607422, "reason": "rate_limit"}
+{"ts": 1778823006.3565352, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1392364501953125, "reason": "rate_limit"}
+{"ts": 1778823006.3808827, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.13327598571777344, "reason": "rate_limit"}
+{"ts": 1778823006.4050777, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.15878677368164062, "reason": "rate_limit"}
+{"ts": 1778823006.429371, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.1544952392578125, "reason": "rate_limit"}
+{"ts": 1778823006.4538448, "session": "172.18.0.4:46848", "type": "Unknown", "allowed": false, "latency_ms": 0.15616416931152344, "reason": "rate_limit"}
+{"ts": 1778823008.4990864, "session": "172.18.0.4:46854", "type": "MalformedPacket", "allowed": false, "latency_ms": 2.347707748413086, "reason": "malformed"}
+{"ts": 1778823008.7186446, "session": "172.18.0.4:46868", "type": "MalformedPacket", "allowed": false, "latency_ms": 0.11372566223144531, "reason": "malformed"}
+{"ts": 1778823008.9423866, "session": "172.18.0.4:46882", "type": "Unknown", "allowed": false, "latency_ms": 0.24390220642089844, "reason": "fsm_violation"}
+{"ts": 1778823009.1617434, "session": "172.18.0.4:46886", "type": "FAKE_CONTROL_OVERRIDE", "allowed": false, "latency_ms": 0.3120899200439453, "reason": "fsm_violation"}
+{"ts": 1778823009.3761635, "session": "172.18.0.4:46890", "type": "MalformedPacket", "allowed": false, "latency_ms": 0.09560585021972656, "reason": "malformed"}
+{"ts": 1778823009.5948389, "session": "172.18.0.4:46896", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.3190040588378906, "reason": ""}
+{"ts": 1778823009.6051288, "session": "172.18.0.4:46896", "type": "E2SetupRequest", "allowed": false, "latency_ms": 0.17547607421875, "reason": "fsm_violation"}
+{"ts": 1778823009.8277802, "session": "172.18.0.4:46898", "type": "RICindication", "allowed": false, "latency_ms": 0.3383159637451172, "reason": "fsm_violation"}
+{"ts": 1778823010.0530174, "session": "172.18.0.4:46910", "type": "Unknown", "allowed": false, "latency_ms": 0.2396106719970703, "reason": "fsm_violation"}
+{"ts": 1778823018.4313838, "session": "172.18.0.4:47652", "type": "E2SetupRequest", "allowed": true, "latency_ms": 0.46896934509277344, "reason": ""}
+{"ts": 1778823018.4347756, "session": "172.18.0.4:47652", "type": "RICsubscriptionRequest", "allowed": true, "latency_ms": 0.2269744873046875, "reason": ""}
+{"ts": 1778823018.444777, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.2353191375732422, "reason": ""}
+{"ts": 1778823018.9660556, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.23555755615234375, "reason": ""}
+{"ts": 1778823019.491832, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.2052783966064453, "reason": ""}
+{"ts": 1778823020.0180159, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.22459030151367188, "reason": ""}
+{"ts": 1778823020.5360928, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.2086162567138672, "reason": ""}
+{"ts": 1778823021.0847666, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.22149085998535156, "reason": ""}
+{"ts": 1778823021.612139, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.3681182861328125, "reason": ""}
+{"ts": 1778823022.16163, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.225067138671875, "reason": ""}
+{"ts": 1778823022.6848185, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.2319812774658203, "reason": ""}
+{"ts": 1778823023.214338, "session": "172.18.0.4:47652", "type": "RICindication", "allowed": true, "latency_ms": 0.2200603485107422, "reason": ""}
+{"ts": 1778823023.7193184, "session": "172.18.0.4:47652", "type": "RICcontrolRequest", "allowed": true, "latency_ms": 0.18739700317382812, "reason": ""}
+{"ts": 1778823023.7315357, "session": "172.18.0.4:47652", "type": "ResetRequest", "allowed": true, "latency_ms": 0.18358230590820312, "reason": ""}

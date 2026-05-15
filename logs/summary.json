@@ -1,0 +1,47 @@
+{
+  "generated_at": 1778823023.7367816,
+  "total": 73,
+  "allowed": 15,
+  "blocked": 58,
+  "block_rate": 0.7945205479452054,
+  "avg_latency_ms": 0.22737947228836686,
+  "by_type": {
+    "RICindication": {
+      "total": 31,
+      "blocked": 21
+    },
+    "Unknown": {
+      "total": 32,
+      "blocked": 32
+    },
+    "MalformedPacket": {
+      "total": 3,
+      "blocked": 3
+    },
+    "FAKE_CONTROL_OVERRIDE": {
+      "total": 1,
+      "blocked": 1
+    },
+    "E2SetupRequest": {
+      "total": 3,
+      "blocked": 1
+    },
+    "RICsubscriptionRequest": {
+      "total": 1,
+      "blocked": 0
+    },
+    "RICcontrolRequest": {
+      "total": 1,
+      "blocked": 0
+    },
+    "ResetRequest": {
+      "total": 1,
+      "blocked": 0
+    }
+  },
+  "by_reason": {
+    "fsm_violation": 25,
+    "rate_limit": 30,
+    "malformed": 3
+  }
+}

@@ -69,7 +69,7 @@ class NearRTRIC:
     模擬 O-RAN Near Real-Time RAN Intelligent Controller：
     - 監聽 xApp 的連接
     - 管理 xApp 的註冊和訂閱
-    - 処理 E2 訊息
+    - 處理 E2 訊息
     - 維護 RAN 功能和資源狀態
     """
 
